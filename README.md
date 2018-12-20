@@ -8,3 +8,5 @@ Day 1 - Worked through the Basic HTML and HTML5 curriculum.
 Day 2 - Started working on Basic CSS.
 
 Day 3 - Continued working on Basic CSS.
+
+Day 4 - Finished Basic CSS.
