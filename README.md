@@ -12,3 +12,5 @@ Day 3 - Continued working on Basic CSS.
 Day 4 - Finished Basic CSS.
 
 Day 5 - Started working on Applied Visual Design.
+
+Day 6 - Continued working on Applied Visual Design.
