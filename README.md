@@ -18,3 +18,5 @@ Day 6 - Continued working on Applied Visual Design.
 Day 7 - Continued working on Applied Visual Design. 
 
 Day 8 - Continued working on Applied Visual Design. 
+
+Day 9 - Finally finished working on Applied Visual Design.
