@@ -24,3 +24,7 @@ Day 9 - Finally finished working on Applied Visual Design.
 Day 10 - Started working on Applied Accessibility.
 
 Day 11 - Finished working on Applied Accessibility.
+
+Day 12 - Completed Responsive Web Design Principles.
+
+Day 13 - Started working on CSS Flexbox challenges.
