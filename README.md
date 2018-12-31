@@ -28,3 +28,5 @@ Day 11 - Finished working on Applied Accessibility.
 Day 12 - Completed Responsive Web Design Principles.
 
 Day 13 - Started working on CSS Flexbox challenges.
+
+Day 14 - Completed CSS Flexbox.
