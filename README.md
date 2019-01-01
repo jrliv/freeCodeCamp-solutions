@@ -30,3 +30,5 @@ Day 12 - Completed Responsive Web Design Principles.
 Day 13 - Started working on CSS Flexbox challenges.
 
 Day 14 - Completed CSS Flexbox.
+
+Day 15 - Started working on CSS Grid challenges.
