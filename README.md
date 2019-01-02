@@ -32,3 +32,5 @@ Day 13 - Started working on CSS Flexbox challenges.
 Day 14 - Completed CSS Flexbox.
 
 Day 15 - Started working on CSS Grid challenges.
+
+Day 15 - Finished CSS Grid.
