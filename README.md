@@ -33,4 +33,6 @@ Day 14 - Completed CSS Flexbox.
 
 Day 15 - Started working on CSS Grid challenges.
 
-Day 15 - Finished CSS Grid.
+Day 16 - Finished CSS Grid.
+
+Day 17 - Completed the Tribute Page project.
