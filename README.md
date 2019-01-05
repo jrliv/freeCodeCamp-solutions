@@ -38,3 +38,5 @@ Day 16 - Finished CSS Grid.
 Day 17 - Completed the Tribute Page project.
 
 Day 18 - Started working on the Survey Form project.
+
+Day 19 - Continued working on the Survey Form project.
