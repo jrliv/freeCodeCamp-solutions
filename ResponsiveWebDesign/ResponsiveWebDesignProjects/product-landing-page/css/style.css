@@ -1,7 +1,26 @@
-nav {
-  position: top;
+header {
   display: flex;
 }
+header > div {
+  margin: 50px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  margin: 0px 600px 0px 600px;
+  line-height: 75px;
+}
+
+nav {
+  position: top;
+}
+
+img {
+  width: 75px;
+  height: 50px;
+}
+
+// Fix later
 @media (max-width: 600px) {
  .facet_sidebar {
  display: none;
